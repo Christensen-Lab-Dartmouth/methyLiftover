@@ -6,6 +6,7 @@ A utility to map whole-genome & reduced representation bisulfite sequencing (WGB
 
 
 # 450K annotation file
+Illumina Infinium HumanMethylation450K bead chip manifest file can be count here:
 
 https://support.illumina.com/array/array_kits/infinium_humanmethylation450_beadchip_kit/downloads.html
 
@@ -16,7 +17,7 @@ https://bioconductor.org/packages/release/data/annotation/html/IlluminaHumanMeth
 
 
 # 850K annotation file
-Illumina Infinium MethylationEPIC bead ship manifest file can be count here:
+Illumina Infinium MethylationEPIC bead chip manifest file can be count here:
 https://support.illumina.com/array/downloads.html
 
 Under: Infinium MethylationEPIC Product Files > Infinium MethylationEPIC v1.0 B1 Manifest File (CSV Format)
